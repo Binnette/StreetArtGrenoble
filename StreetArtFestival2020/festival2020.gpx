@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <desc>Street Art Festival 2020</desc>
+    <author>
+      <name>Binnette</name>
+      <email id="binnette" domain="gmail.com"/>
+    </author>
+    <copyright author="Binnette">
+      <year>2020</year>
+      <license>MIT</license>
+    </copyright>
+    <keywords>Street Art Festival 2020</keywords>
+    <bounds minlat="45.1733147" minlon="5.6966619" maxlat="45.1923084" maxlon="5.7580524"/>
+  </metadata>
+  <wpt lat="45.1790104" lon="5.7580524">
+    <name>L&apos;union fait la force de PIET RODRIGUEZ (Belgique)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Gymnase Langevin - Façade de la rue Paul Languevin, Saint Martin d&apos;Hères. Reálisation de la fresque à partir du 28 juin</desc>
+    <type>WIP</type>
+  </wpt>
+  <wpt lat="45.1877447" lon="5.7487143">
+    <name>HOLLOW (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Poste Enedis au dessus de la fresque de Julieta XLF (2019)</desc>
+    <type>WIP</type>
+  </wpt>
+  <wpt lat="45.18700160000001" lon="5.7448992">
+    <name>INTI (Chili)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>17 rue Jules Flandrin, Grenoble à partir du 5 Juillet</desc>
+    <type>5 Juillet</type>
+  </wpt>
+  <wpt lat="45.18724170000001" lon="5.7433444">
+    <name>Mise en garde de SNEK (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>nº20 Résidence Galieni</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1831746" lon="5.7391926">
+    <name>Never go back to school de GOIN</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>5 Rue Roger Louis Lachat</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1805621" lon="5.7313051">
+    <name>BRUSK (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Visible depuis le 35 rue Mallifaud</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1790042" lon="5.7261143">
+    <name>KKKops de GOIN</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>2 rue Henri Bergson</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1864136" lon="5.727395">
+    <name>OTIST (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Poteaux en face du Parking Hoche. Oeuvres visibles à partir du 5 Juillet</desc>
+    <type>5 Juillet</type>
+  </wpt>
+  <wpt lat="45.1863435" lon="5.7272775">
+    <name>Black lives matter de COMBO (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Black lives matter au Parking Hoche - rue François Raoult., Grenoble</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1920641" lon="5.7167900000000005">
+    <name>RESKATE ART &amp; CRAFTS (Espagne)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>1 Place Doyen Gosse - Réalisation prévue à partir du 4 Juillet 2020</desc>
+    <type>4 Juillet</type>
+  </wpt>
+  <wpt lat="45.1733147" lon="5.7048869">
+    <name>Unité de LPVDA (Suisse)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Façade Croix Rouge - 66 Avenue Rhin et Danube, 38100 Grenoble</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1885877" lon="5.7110042">
+    <name>La tigresse rouge de MARCO LALLEMANT (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>118 Cours Berriat</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1885658" lon="5.709107">
+    <name>Broken glass de SIMON BERGER (Suisse)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Vitrines au 119 Cours Berriat, Grenoble</desc>
+    <type>Ok</type>
+  </wpt>
+  <wpt lat="45.1923084" lon="5.6966619">
+    <name>L&apos;ENFANT LIBRE(France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Médiathèque Paul Eluard. Réalisation prévue pour le 11 juillet</desc>
+    <type>11 juillet</type>
+  </wpt>
+</gpx>
