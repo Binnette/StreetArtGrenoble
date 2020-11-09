@@ -1,0 +1,313 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6875907,45.1900073 ]
+    },
+    "properties": {
+    "name":"\"Les Collemboles\" de PHILIBERT (France)",
+    "desc":"École Les Balmes. Rue Marguerite Tavel (Fontaine)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6921404,45.186947 ]
+    },
+    "properties": {
+    "name":"M4U (France) + Petite Poisonne (France)",
+    "desc":"Centre Social George Sand."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6966619,45.1923084 ]
+    },
+    "properties": {
+    "name":"\"L'inconnu de la gare de Jodhpur\" de L'ENFANT LIBRE (France)",
+    "desc":"Médiathèque Paul Eluard."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7072969,45.1993755 ]
+    },
+    "properties": {
+    "name":"\"Summer Games 2021\" de Srek & Killah One (France)",
+    "desc":"Façade CEA, 17 Avenue des Martyrs, Grenoble"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.71679,45.1920641 ]
+    },
+    "properties": {
+    "name":"\"Eco vs Ego\" de RESKATE (Espagne)",
+    "desc":"1 Place Doyen Gosse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.709107,45.1885658 ]
+    },
+    "properties": {
+    "name":"\"Broken glass\" de SIMON BERGER (Suisse)",
+    "desc":"Vitrines au 119 Cours Berriat, Grenoble."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7110042,45.1885877 ]
+    },
+    "properties": {
+    "name":"\"La tigresse rouge\" de MARCO LALLEMANT (France)",
+    "desc":"118 Cours Berriat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7103685,45.1886539 ]
+    },
+    "properties": {
+    "name":"NEVERCREW (Suisse)",
+    "desc":"Mur pignon du 122 Cours Berriat."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7113229,45.1865135 ]
+    },
+    "properties": {
+    "name":"\"Tous les voisins d'un autre\" de COLLECTIF MUZ MURAL MEDIA",
+    "desc":"Mur de la Maison des Habitants Chorrier - Berriat. 10 Rue Henri le Châtelier, Grenoble"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7048869,45.1733147 ]
+    },
+    "properties": {
+    "name":"\"Unité\" de LPVDA (Suisse)",
+    "desc":"Façade Croix Rouge - 66 Avenue Rhin et Danube, 38100 Grenoble."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7272775,45.1863435 ]
+    },
+    "properties": {
+    "name":"\"Black lives matter\" de COMBO (France)",
+    "desc":"\"Black lives matter\" au Parking Hoche  - rue François Raoult., Grenoble."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7273765,45.1864125 ]
+    },
+    "properties": {
+    "name":"\"Reveillez vous\" de OTIST (France)",
+    "desc":"L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7272995,45.1863872 ]
+    },
+    "properties": {
+    "name":"\"Re-belier vous\" de OTIST (France)",
+    "desc":"L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7272361,45.1863569 ]
+    },
+    "properties": {
+    "name":"\"Cultivez vous\" de OTIST (France)",
+    "desc":"L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7261143,45.1790042 ]
+    },
+    "properties": {
+    "name":"\"KKKops\" de GOIN",
+    "desc":"2 rue Henri Bergson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7313051,45.1805621 ]
+    },
+    "properties": {
+    "name":"\"Hannibal\" de BRUSK (France)",
+    "desc":"Visible depuis le 35 rue Mallifaud"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7391926,45.1831746 ]
+    },
+    "properties": {
+    "name":"\"Never go back to school\" de GOIN",
+    "desc":"5 Rue Roger Louis Lachat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7434599,45.1874844 ]
+    },
+    "properties": {
+    "name":"\"I'm new here\" de YANN CHATELIN",
+    "desc":"28 boulevard Galliéni (Résidence Galliéni), Grenoble"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7433444,45.1872417 ]
+    },
+    "properties": {
+    "name":"\"Mise en garde\" de SNEK (France)",
+    "desc":"nº20 Résidence Galieni."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7448992,45.1870016 ]
+    },
+    "properties": {
+    "name":"\"A Pale Dot Blue\" de INTI (Chili)",
+    "desc":"\"A Pal Dot Blue\" de INTI au 17 rue Jules Flandrin, Grenoble"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7487143,45.1877447 ]
+    },
+    "properties": {
+    "name":"Holow & Ekis (France)",
+    "desc":"Poste Enedis au dessus de la fresque de Julieta XLF (2019)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7536735,45.1739078 ]
+    },
+    "properties": {
+    "name":"\"Artist\" de Viktoria Veisbrut",
+    "desc":"École Voltaire, rue Edmond Rostand, Saint Martin d’Hères."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7580524,45.1790104 ]
+    },
+    "properties": {
+    "name":"\"L'union fait la force\" de PIET RODRIGUEZ (Belgique)",
+    "desc":"Gymnase Langevin - Façade de la rue Paul Languevin, Saint Martin d'Hères."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7557047,45.1690345 ]
+    },
+    "properties": {
+    "name":"\"Simone Veil\" de M4U",
+    "desc":"Place Simone Veil, 62 avenue 8 mai 1945, Ville de Saint Martin d'Hères"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7654247,45.1911631 ]
+    },
+    "properties": {
+    "name":"ROSIE WOODS (Angleterre)",
+    "desc":"3 fresques prevues au DLST - Université Grenoble – Alpes."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7544479,45.1920501 ]
+    },
+    "properties": {
+    "name":"TELMO & MIEL (Hollande)",
+    "desc":"Bâtiment A - Résidence Ouest Crous-Grenoble – Alpes."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6999402,45.1209222 ]
+    },
+    "properties": {
+    "name":"\"Old skin\" de IOTA (Belgique)",
+    "desc":"5 Avenue Raffin Caboisse, 38800 Le Pont-de-Claix."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7078765,45.1356838 ]
+    },
+    "properties": {
+    "name":"VOTOUR (France)",
+    "desc":"École primaire Jean Moulin"
+    }
+  }
+]
+}

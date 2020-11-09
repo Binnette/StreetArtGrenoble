@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
@@ -13,90 +13,146 @@
       <license>MIT</license>
     </copyright>
     <keywords>Street Art Festival 2020</keywords>
-    <bounds minlat="45.1733147" minlon="5.6966619" maxlat="45.1923084" maxlon="5.7580524"/>
+    <bounds minlat="45.1209222" minlon="5.6875907" maxlat="45.1993756" maxlon="5.7654247"/>
   </metadata>
   <wpt lat="45.1790104" lon="5.7580524">
-    <name>L&apos;union fait la force de PIET RODRIGUEZ (Belgique)</name>
+    <name>&quot;L'union fait la force&quot; de PIET RODRIGUEZ (Belgique)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>Gymnase Langevin - Façade de la rue Paul Languevin, Saint Martin d&apos;Hères. Reálisation de la fresque à partir du 28 juin</desc>
-    <type>WIP</type>
+    <desc>Gymnase Langevin - Façade de la rue Paul Languevin, Saint Martin d'Hères.</desc>
   </wpt>
   <wpt lat="45.1877447" lon="5.7487143">
-    <name>HOLLOW (France)</name>
+    <name>Holow &amp; Ekis (France)</name>
     <cmt>tourism:artwork</cmt>
     <desc>Poste Enedis au dessus de la fresque de Julieta XLF (2019)</desc>
-    <type>WIP</type>
   </wpt>
-  <wpt lat="45.18700160000001" lon="5.7448992">
-    <name>INTI (Chili)</name>
+  <wpt lat="45.1870016" lon="5.7448992">
+    <name>&quot;A Pale Dot Blue&quot; de INTI (Chili)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>17 rue Jules Flandrin, Grenoble à partir du 5 Juillet</desc>
-    <type>5 Juillet</type>
+    <desc>&quot;A Pal Dot Blue&quot; de INTI au 17 rue Jules Flandrin, Grenoble</desc>
   </wpt>
-  <wpt lat="45.18724170000001" lon="5.7433444">
-    <name>Mise en garde de SNEK (France)</name>
+  <wpt lat="45.1872417" lon="5.7433444">
+    <name>&quot;Mise en garde&quot; de SNEK (France)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>nº20 Résidence Galieni</desc>
-    <type>Ok</type>
+    <desc>nº20 Résidence Galieni.</desc>
   </wpt>
   <wpt lat="45.1831746" lon="5.7391926">
-    <name>Never go back to school de GOIN</name>
+    <name>&quot;Never go back to school&quot; de GOIN</name>
     <cmt>tourism:artwork</cmt>
     <desc>5 Rue Roger Louis Lachat</desc>
-    <type>Ok</type>
   </wpt>
   <wpt lat="45.1805621" lon="5.7313051">
-    <name>BRUSK (France)</name>
+    <name>&quot;Hannibal&quot; de BRUSK (France)</name>
     <cmt>tourism:artwork</cmt>
     <desc>Visible depuis le 35 rue Mallifaud</desc>
-    <type>Ok</type>
   </wpt>
   <wpt lat="45.1790042" lon="5.7261143">
-    <name>KKKops de GOIN</name>
+    <name>&quot;KKKops&quot; de GOIN</name>
     <cmt>tourism:artwork</cmt>
     <desc>2 rue Henri Bergson</desc>
-    <type>Ok</type>
   </wpt>
-  <wpt lat="45.1864136" lon="5.727395">
-    <name>OTIST (France)</name>
+  <wpt lat="45.1864125" lon="5.7273765">
+    <name>&quot;Reveillez vous&quot; de OTIST (France)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>Poteaux en face du Parking Hoche. Oeuvres visibles à partir du 5 Juillet</desc>
-    <type>5 Juillet</type>
+    <desc>L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver.</desc>
+  </wpt>
+  <wpt lat="45.1863872" lon="5.7272995">
+    <name>&quot;Re-belier vous&quot; de OTIST (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver.</desc>
+  </wpt>
+  <wpt lat="45.1863569" lon="5.7272361">
+    <name>&quot;Cultivez vous&quot; de OTIST (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>L'artiste français OTIST présente son concept d'évolution par trois pochoirs situés sur les poteaux en face du Parking Victor Hugo, rue Francois Raoult. Tout d'abord, le reveil, la prise de conscience. Vient ensuite l'envie de se revolter. Enfin la solution: se cultiver.</desc>
   </wpt>
   <wpt lat="45.1863435" lon="5.7272775">
-    <name>Black lives matter de COMBO (France)</name>
+    <name>&quot;Black lives matter&quot; de COMBO (France)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>Black lives matter au Parking Hoche - rue François Raoult., Grenoble</desc>
-    <type>Ok</type>
+    <desc>&quot;Black lives matter&quot; au Parking Hoche  - rue François Raoult., Grenoble.</desc>
   </wpt>
-  <wpt lat="45.1920641" lon="5.7167900000000005">
-    <name>RESKATE ART &amp; CRAFTS (Espagne)</name>
+  <wpt lat="45.1920641" lon="5.71679">
+    <name>&quot;Eco vs Ego&quot; de RESKATE (Espagne)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>1 Place Doyen Gosse - Réalisation prévue à partir du 4 Juillet 2020</desc>
-    <type>4 Juillet</type>
+    <desc>1 Place Doyen Gosse</desc>
   </wpt>
   <wpt lat="45.1733147" lon="5.7048869">
-    <name>Unité de LPVDA (Suisse)</name>
+    <name>&quot;Unité&quot; de LPVDA (Suisse)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>Façade Croix Rouge - 66 Avenue Rhin et Danube, 38100 Grenoble</desc>
-    <type>Ok</type>
+    <desc>Façade Croix Rouge - 66 Avenue Rhin et Danube, 38100 Grenoble.</desc>
   </wpt>
   <wpt lat="45.1885877" lon="5.7110042">
-    <name>La tigresse rouge de MARCO LALLEMANT (France)</name>
+    <name>&quot;La tigresse rouge&quot; de MARCO LALLEMANT (France)</name>
     <cmt>tourism:artwork</cmt>
     <desc>118 Cours Berriat</desc>
-    <type>Ok</type>
   </wpt>
   <wpt lat="45.1885658" lon="5.709107">
-    <name>Broken glass de SIMON BERGER (Suisse)</name>
+    <name>&quot;Broken glass&quot; de SIMON BERGER (Suisse)</name>
     <cmt>tourism:artwork</cmt>
     <desc>Vitrines au 119 Cours Berriat, Grenoble</desc>
-    <type>Ok</type>
   </wpt>
   <wpt lat="45.1923084" lon="5.6966619">
-    <name>L&apos;ENFANT LIBRE(France)</name>
+    <name>&quot;L'inconnu de la gare de Jodhpur&quot; de L'ENFANT LIBRE (France)</name>
     <cmt>tourism:artwork</cmt>
-    <desc>Médiathèque Paul Eluard. Réalisation prévue pour le 11 juillet</desc>
-    <type>11 juillet</type>
+    <desc>Médiathèque Paul Eluard.</desc>
+  </wpt>
+  <wpt lat="45.1900073" lon="5.6875907">
+    <name>&quot;Les Collemboles&quot; de PHILIBERT (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>École Les Balmes. Rue Marguerite Tavel (Fontaine).</desc>
+  </wpt>
+  <wpt lat="45.186947" lon="5.6921404">
+    <name>M4U (France) + Petite Poisonne (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Centre Social George Sand.</desc>
+  </wpt>
+  <wpt lat="45.1993755" lon="5.7072969">
+    <name>&quot;Summer Games 2021&quot; de Srek &amp; Killah One (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Façade CEA, 17 Avenue des Martyrs, Grenoble</desc>
+  </wpt>
+  <wpt lat="45.1886539" lon="5.7103685">
+    <name>NEVERCREW (Suisse)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Mur pignon du 122 Cours Berriat.</desc>
+  </wpt>
+  <wpt lat="45.1865135" lon="5.7113229">
+    <name>&quot;Tous les voisins d'un autre&quot; de COLLECTIF MUZ MURAL MEDIA</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Mur de la Maison des Habitants Chorrier - Berriat. 10 Rue Henri le Châtelier, Grenoble</desc>
+  </wpt>
+  <wpt lat="45.1874844" lon="5.7434599">
+    <name>&quot;I'm new here&quot; de YANN CHATELIN</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>28 boulevard Galliéni (Résidence Galliéni), Grenoble</desc>
+  </wpt>
+  <wpt lat="45.1739078" lon="5.7536735">
+    <name>&quot;Artist&quot; de Viktoria Veisbrut</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>École Voltaire, rue Edmond Rostand, Saint Martin d’Hères.</desc>
+  </wpt>
+  <wpt lat="45.1690345" lon="5.7557047">
+    <name>&quot;Simone Veil&quot; de M4U</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Place Simone Veil, 62 avenue 8 mai 1945, Ville de Saint Martin d'Hères</desc>
+  </wpt>
+  <wpt lat="45.1911631" lon="5.7654247">
+    <name>ROSIE WOODS (Angleterre)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>3 fresques prevues au DLST - Université Grenoble – Alpes.</desc>
+  </wpt>
+  <wpt lat="45.1920501" lon="5.7544479">
+    <name>TELMO &amp; MIEL (Hollande)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>Bâtiment A - Résidence Ouest Crous-Grenoble – Alpes.</desc>
+  </wpt>
+  <wpt lat="45.1209222" lon="5.6999402">
+    <name>&quot;Old skin&quot; de IOTA (Belgique)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>5 Avenue Raffin Caboisse, 38800 Le Pont-de-Claix.</desc>
+  </wpt>
+  <wpt lat="45.1356838" lon="5.7078765">
+    <name>VOTOUR (France)</name>
+    <cmt>tourism:artwork</cmt>
+    <desc>École primaire Jean Moulin</desc>
   </wpt>
 </gpx>
