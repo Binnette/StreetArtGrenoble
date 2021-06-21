@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="45.120922" minlon="5.686669" maxlat="45.20152" maxlon="5.770774"/>
+  </metadata>
+  <wpt lat="45.1868135" lon="5.7221022">
+    <name>&quot;Heartbreaker&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1860352" lon="5.7224606">
+    <name>LKS1</name>
+  </wpt>
+  <wpt lat="45.1893877" lon="5.7315546">
+    <name>&quot;The Sheepest&quot; de The Sheepest&#xA;</name>
+  </wpt>
+  <wpt lat="45.1852118" lon="5.7236746">
+    <name>&quot;History of writing&quot; de Collectif Contratak&#xA;</name>
+  </wpt>
+  <wpt lat="45.1860166" lon="5.7221897">
+    <name>&quot;L&apos;aigle&quot; de Srek, Greg &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1864594" lon="5.7211538">
+    <name>&quot;Arum de Murène&quot; de Etien&apos;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1865652" lon="5.7208157">
+    <name>&quot;Les bergers de l&apos;Arcadie&quot; de Kouka&#xA;</name>
+  </wpt>
+  <wpt lat="45.1866538" lon="5.7207785">
+    <name>&quot;Le Chat de la Villa&quot; de C215&#xA;</name>
+  </wpt>
+  <wpt lat="45.1877269" lon="5.7216877">
+    <name>&quot;The ascension&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1868632" lon="5.7220325">
+    <name>&quot;Sapere Padene&quot; de Mr Chaix&#xA;</name>
+  </wpt>
+  <wpt lat="45.1868015" lon="5.7219298">
+    <name>&quot;Dans Quel Monde Vuitton?&quot; de EZK&#xA;</name>
+  </wpt>
+  <wpt lat="45.1866033" lon="5.72213">
+    <name>&quot;Stendhal Syndroma&quot; de Mr Wany&#xA;</name>
+  </wpt>
+  <wpt lat="45.1867186" lon="5.7219917">
+    <name>&quot;Masque Babylon&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1866486" lon="5.7220266">
+    <name>&quot;Malala&quot; de C215&#xA;</name>
+  </wpt>
+  <wpt lat="45.1867085" lon="5.7218688">
+    <name>&quot;Branded&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1870566" lon="5.7209853">
+    <name>&quot;Mandela&quot; de &quot;C215&quot;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1873867" lon="5.7198805">
+    <name>&quot;Da Cruz&quot; de Da Cruz&#xA;</name>
+  </wpt>
+  <wpt lat="45.1867072" lon="5.7123098">
+    <name>&quot;Stellär&quot; de Serty31&#xA;</name>
+  </wpt>
+  <wpt lat="45.1867599" lon="5.7044653">
+    <name>&quot;Le lion&quot; de Srek, Greg &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1868614" lon="5.7220826">
+    <name>&quot;David Sématine&quot; de C215&#xA;</name>
+  </wpt>
+  <wpt lat="45.186739" lon="5.7220007">
+    <name>“Malala” de C215</name>
+  </wpt>
+  <wpt lat="45.183098" lon="5.7191224">
+    <name>Ekis &amp; Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1831377" lon="5.7192016">
+    <name>Danay</name>
+  </wpt>
+  <wpt lat="45.1874842" lon="5.7220564">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1875737" lon="5.7194453">
+    <name>&quot;Tweedle Dee &amp; Tweedle Dum&quot; de Groek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1875113" lon="5.7195874">
+    <name>&quot;Tawos&quot; de Tawos&#xA;</name>
+  </wpt>
+  <wpt lat="45.1874481" lon="5.7198832">
+    <name>&quot;Animatoland&quot; de Animatoland&#xA;</name>
+  </wpt>
+  <wpt lat="45.187088" lon="5.7207717">
+    <name>&quot;Romain Minotti et M4U&quot; de Romain Minotti&#xA;</name>
+  </wpt>
+  <wpt lat="45.1866539" lon="5.7221059">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.186618" lon="5.7222173">
+    <name>&quot;Dancers&quot; de Anthony Lanister&#xA;</name>
+  </wpt>
+  <wpt lat="45.1868814" lon="5.7198859">
+    <name>&quot;Marianne&quot; de Srek, Greg &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1863986" lon="5.7212076">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1861255" lon="5.7219448">
+    <name>&quot;Ordering Machine&quot; de Nevercrew&#xA;</name>
+  </wpt>
+  <wpt lat="45.1851241" lon="5.7212017">
+    <name>&quot;1Pact &amp; Thibaquet&quot; de 1mpact&#xA;</name>
+  </wpt>
+  <wpt lat="45.1830649" lon="5.7191586">
+    <name>&quot;Ekis et Juin&quot; de Ekis&#xA;</name>
+  </wpt>
+  <wpt lat="45.1830517" lon="5.7192444">
+    <name>&quot;Ekis&quot; de Ekis&#xA;</name>
+  </wpt>
+  <wpt lat="45.1830687" lon="5.7193329">
+    <name>&quot;Joey Starr&quot; de Romain Minotti&#xA;</name>
+  </wpt>
+  <wpt lat="45.1830914" lon="5.7194134">
+    <name>&quot;Circularity&quot; de INK4ART&#xA;</name>
+  </wpt>
+  <wpt lat="45.1831084" lon="5.719518">
+    <name>&quot;Un autre regard&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1853361" lon="5.7250954">
+    <name>&quot;La Sérophobie&quot; de Ekis &amp; Boye&#xA;</name>
+  </wpt>
+  <wpt lat="45.1831273" lon="5.7196092">
+    <name>&quot;M4U&quot; de M4u&#xA;</name>
+  </wpt>
+  <wpt lat="45.1837019" lon="5.7213489">
+    <name>&quot;Hommage aux grands-mères argentines de la place de Mai&quot; de Animalitoland&#xA;</name>
+  </wpt>
+  <wpt lat="45.1793628" lon="5.7190474">
+    <name>&quot;Dropping the city&quot; de Will Barras</name>
+  </wpt>
+  <wpt lat="45.1839704" lon="5.7223252">
+    <name>&quot;L&apos;arme de paix&quot; de Snek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1847522" lon="5.7252301">
+    <name>&quot;Ubi Sum ibi Moveo&quot; de Nesta&#xA;</name>
+  </wpt>
+  <wpt lat="45.1860194" lon="5.7266274">
+    <name>&quot;Mimes&quot; de Anthony Lister&#xA;</name>
+  </wpt>
+  <wpt lat="45.1856046" lon="5.7305026">
+    <name>&quot;Professeur Renard&quot; de Veks Van Hillik&#xA;</name>
+  </wpt>
+  <wpt lat="45.1902897" lon="5.7348398">
+    <name>&quot;Les 5 Résistants au Panthéon&quot; de C215&#xA;</name>
+  </wpt>
+  <wpt lat="45.1799504" lon="5.7317113">
+    <name>&quot;Les Paons&quot; de Monkey Bird&#xA;</name>
+  </wpt>
+  <wpt lat="45.1869015" lon="5.7237991">
+    <name>&quot;Façade Subway&quot; de Juin &#xA;</name>
+  </wpt>
+  <wpt lat="45.1660604" lon="5.7350886">
+    <name>&quot;Jungle Rules&quot; de Votour&#xA;</name>
+  </wpt>
+  <wpt lat="45.1659399" lon="5.7354403">
+    <name>&quot;KorneBék&quot; de Votour&#xA;</name>
+  </wpt>
+  <wpt lat="45.1647856" lon="5.7313844">
+    <name>&quot;L&apos;Espadon&quot; de Etien&apos;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1644107" lon="5.7314518">
+    <name>&quot;Esprit du nouveau&quot; de Augustine Kofie&#xA;</name>
+  </wpt>
+  <wpt lat="45.1598089" lon="5.7330693">
+    <name>&quot;Fac-similé de la Fresque d&apos;Ernest Pignon Ernest&quot; de Ernest Pignon Ernest&#xA;</name>
+  </wpt>
+  <wpt lat="45.1928873" lon="5.755756">
+    <name>&quot;Mockingbirds&quot; de Lonac&#xA;</name>
+  </wpt>
+  <wpt lat="45.1627525" lon="5.7325166">
+    <name>&quot;Breaking the Rules&quot; de Votour&#xA;</name>
+  </wpt>
+  <wpt lat="45.1661618" lon="5.7327372">
+    <name>&quot;Dans la jungle, pas de 49.3&quot; de Votour&#xA;</name>
+  </wpt>
+  <wpt lat="45.1607515" lon="5.730602">
+    <name>&quot;Tiger Dazzle&quot; de Groek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1606967" lon="5.7304527">
+    <name>&quot;Valerie&quot; de Besss&#xA;</name>
+  </wpt>
+  <wpt lat="45.1607553" lon="5.7304507">
+    <name>&quot;Vandal Streetfish&quot; de Atom Ludik&#xA;</name>
+  </wpt>
+  <wpt lat="45.1605802" lon="5.7306157">
+    <name>&quot;Poisson express&quot; de Veks Van Hillik&#xA;</name>
+  </wpt>
+  <wpt lat="45.1605838" lon="5.7305626">
+    <name>&quot;Berns and friends&quot; de Berns&#xA;</name>
+  </wpt>
+  <wpt lat="45.1608303" lon="5.7305193">
+    <name>&quot;On décore le béton&quot; de Srek, Greg &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1609211" lon="5.7305622">
+    <name>&quot;Nesta &amp; Short79&quot; de Nesta&#xA;</name>
+  </wpt>
+  <wpt lat="45.1610246" lon="5.7307696">
+    <name>&quot;Selfie et Vis ta vie&quot; de Romain Minotti&#xA;</name>
+  </wpt>
+  <wpt lat="45.1609754" lon="5.730834">
+    <name>&quot;Le Caméléon&quot; de Srek, Greg &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.16218" lon="5.7337951">
+    <name>&quot;Le Lion et le Serpent&quot; de Bestiari One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1625415" lon="5.7322686">
+    <name>&quot;On ne doit pas écrire sur le mur&quot; de Cart1&#xA;</name>
+  </wpt>
+  <wpt lat="45.1624164" lon="5.7322686">
+    <name>&quot;Zone Libre&quot; de Una Vida Familia&#xA;</name>
+  </wpt>
+  <wpt lat="45.1643575" lon="5.7325297">
+    <name>&quot;Break the Rules&quot; de VOTOUR&#xA;</name>
+  </wpt>
+  <wpt lat="45.1643235" lon="5.7324385">
+    <name>&quot;Le Paon&quot; de VOTOUR&#xA;</name>
+  </wpt>
+  <wpt lat="45.1641604" lon="5.7324143">
+    <name>&quot;Sahbi Moise&quot; de M4U&#xA;</name>
+  </wpt>
+  <wpt lat="45.1642247" lon="5.7323815">
+    <name>&quot;Una Vida Familia&quot; de Una Vida Familia&#xA;</name>
+  </wpt>
+  <wpt lat="45.1718331" lon="5.7365987">
+    <name>&quot;Gris one&quot; de Gris one&#xA;</name>
+  </wpt>
+  <wpt lat="45.1606722" lon="5.7306265">
+    <name>&quot;Les simpsons&quot; de Srek</name>
+  </wpt>
+  <wpt lat="45.1845952" lon="5.7244279">
+    <name>&quot;Sum Ibi Moveo&quot; de Nesta &amp; Short79&#xA;</name>
+  </wpt>
+  <wpt lat="45.1886316" lon="5.7373667">
+    <name>&quot;Fils de la chimère&quot; de Ekis &amp; Boye&#xA;</name>
+  </wpt>
+  <wpt lat="45.1846845" lon="5.7310167">
+    <name>&quot;L&apos;escalier&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1858812" lon="5.7268379">
+    <name>&quot;La fille de printemps&quot; de RNST&#xA;</name>
+  </wpt>
+  <wpt lat="45.1860966" lon="5.7267011">
+    <name>&quot;Lady Refugee&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1859775" lon="5.7267049">
+    <name>&quot;Au nom du Pire&quot; de EZK&#xA;</name>
+  </wpt>
+  <wpt lat="45.1874109" lon="5.7200008">
+    <name>&quot;The Daily lies&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1874317" lon="5.7221167">
+    <name>&quot;Dragon &amp; Lotus&quot; de P87 &amp; Bezo&#xA;</name>
+  </wpt>
+  <wpt lat="45.1867685" lon="5.7216735">
+    <name>&quot;Shit News&quot; de Brkn/Wrld&#xA;</name>
+  </wpt>
+  <wpt lat="45.1848537" lon="5.722552">
+    <name>&quot;La nuée&quot; de Daleast&#xA;</name>
+  </wpt>
+  <wpt lat="45.1850884" lon="5.720625">
+    <name>&quot;Migration animale&quot; de Atom Ludik&#xA;</name>
+  </wpt>
+  <wpt lat="45.184958" lon="5.7207001">
+    <name>&quot;Le hibou&quot; de Srek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1847251" lon="5.7204958">
+    <name>&quot;Koons Me!&quot; EZK&#xA;</name>
+  </wpt>
+  <wpt lat="45.1827639" lon="5.7174802">
+    <name>&quot;Food fod Thought&quot; de How &amp; Nosm&#xA;</name>
+  </wpt>
+  <wpt lat="45.1823377" lon="5.716898">
+    <name>&quot;Enjoy your cocktails&quot; de BRKN/WRLD&#xA;</name>
+  </wpt>
+  <wpt lat="45.186157" lon="5.7115635">
+    <name>&quot;Palindrome&quot; de Tawos&#xA;</name>
+  </wpt>
+  <wpt lat="45.1863304" lon="5.7116065">
+    <name>&quot;L&apos;accord des corps &gt;&gt;&amp;&lt;&lt; Les corps se décorent&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1863804" lon="5.7116058">
+    <name>&quot;Être Miró&quot; de The Blind&#xA;</name>
+  </wpt>
+  <wpt lat="45.1872674" lon="5.7094869">
+    <name>&quot;Buda&quot; de Jaba&#xA;</name>
+  </wpt>
+  <wpt lat="45.1885434" lon="5.7097826">
+    <name>&quot;L&apos;humain aux mains nues nomma l&apos;âme en un mot&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1885888" lon="5.7091168">
+    <name>&quot;La Courbe&quot; de Monkey Bird&#xA;</name>
+  </wpt>
+  <wpt lat="45.1885888" lon="5.7090738">
+    <name>&quot;Intégration&quot; de INK4ART&#xA;</name>
+  </wpt>
+  <wpt lat="45.1885907" lon="5.7090256">
+    <name>&quot;La belle mécanique&quot; de Snek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1886414" lon="5.7084304">
+    <name>&quot;Etien&apos; &quot; de Etien&apos;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1886387" lon="5.7085833">
+    <name>&quot;Notre Dame de Grâce II&quot; de A&apos;Shop&#xA;</name>
+  </wpt>
+  <wpt lat="45.1896076" lon="5.7121014">
+    <name>Crewcaracha</name>
+  </wpt>
+  <wpt lat="45.1847334" lon="5.7207923">
+    <name>Portes de Garage - œuvres collaboratives&#xA;</name>
+  </wpt>
+  <wpt lat="45.1869824" lon="5.7046524">
+    <name>Jaba, Srek &amp; Will</name>
+  </wpt>
+  <wpt lat="45.1920261" lon="5.696589">
+    <name>&quot;La Tortue&quot; de Veks Van Hillik&#xA;</name>
+  </wpt>
+  <wpt lat="45.123303" lon="5.6976007">
+    <name>Collectif Contratak&#xA;</name>
+  </wpt>
+  <wpt lat="45.1230561" lon="5.6988578">
+    <name>&quot;Toxic Wedding&quot; de Goin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1232527" lon="5.6981354">
+    <name>Statuettes de Issac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1230334" lon="5.6989329">
+    <name>Statuettes d&apos;Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1233084" lon="5.6983363">
+    <name>&quot;Grow your interior out&quot; de Animatoland&#xA;</name>
+  </wpt>
+  <wpt lat="45.1922153" lon="5.7556782">
+    <name>&quot;Vaneta, Keeper of the forest&quot; de Sonny&#xA;</name>
+  </wpt>
+  <wpt lat="45.1854629" lon="5.7482833">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1853648" lon="5.7622828">
+    <name>&quot;Le pigeon Voyageur&quot; de Veks Van Hillik&#xA;</name>
+  </wpt>
+  <wpt lat="45.1846247" lon="5.7513093">
+    <name>&quot;Danse avec la vie&quot; de Snek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1854856" lon="5.7480188">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1824968" lon="5.7564631">
+    <name>&quot;Narvaline&quot; de Groek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1614923" lon="5.7403672">
+    <name>&quot;Resiste&quot; de Una Vida Familia&#xA;</name>
+  </wpt>
+  <wpt lat="45.1533868" lon="5.7367158">
+    <name>Nesta Graffiti Invitational &#xA;</name>
+  </wpt>
+  <wpt lat="45.1826624" lon="5.7177678">
+    <name>Srek &amp; Killah One&#xA;</name>
+  </wpt>
+  <wpt lat="45.1907669" lon="5.7065025">
+    <name>Nesta, Suiko, ShutieOne, K12ne &amp; Groek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1977155" lon="5.7374659">
+    <name>&quot;Hirondelles&quot; de Pantonio&#xA;</name>
+  </wpt>
+  <wpt lat="45.1966437" lon="5.7368064">
+    <name>&quot;Juntos&quot; de CUORE&#xA;</name>
+  </wpt>
+  <wpt lat="45.1943209" lon="5.7330379">
+    <name>&quot;L&apos;art de l&apos;eau&quot; de JUIN&#xA;</name>
+  </wpt>
+  <wpt lat="45.1941727" lon="5.7251792">
+    <name>&quot;Ink4rt&quot; de INK4RT&#xA;</name>
+  </wpt>
+  <wpt lat="45.1904881" lon="5.730339">
+    <name>&quot;Façade office de tourisme&quot; de Juin&#xA;</name>
+  </wpt>
+  <wpt lat="45.1848154" lon="5.7245683">
+    <name>&quot;Horizon&quot; de Nesta &amp; Short79&#xA;</name>
+  </wpt>
+  <wpt lat="45.177907" lon="5.7273214">
+    <name>&quot;Les Grenouilles&quot; de Etien&apos;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1789663" lon="5.7261135">
+    <name>&quot;Babylon 909&quot; de Nesta&#xA;</name>
+  </wpt>
+  <wpt lat="45.1859854" lon="5.7266663">
+    <name>&quot;Let&apos;s take a walk on Democrathy&quot; de By Dav&apos;&#xA;</name>
+  </wpt>
+  <wpt lat="45.1859552" lon="5.7267629">
+    <name>&quot;The Hero is you&quot; Lapiz&#xA;</name>
+  </wpt>
+  <wpt lat="45.1862652" lon="5.7267065">
+    <name>&quot;Mr. Chaix&quot; Mr Chaix&#xA;</name>
+  </wpt>
+  <wpt lat="45.1842693" lon="5.7258509">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal</name>
+  </wpt>
+  <wpt lat="45.1847595" lon="5.7222558">
+    <name>&quot;Epic Street Fight&quot; de Kiptoe&#xA;</name>
+  </wpt>
+  <wpt lat="45.1856764" lon="5.7218294">
+    <name>Fresque Collaborative de Suiko&#xA;</name>
+  </wpt>
+  <wpt lat="45.1855943" lon="5.7219402">
+    <name>&quot;Super Strike&quot; de Suiko&#xA;</name>
+  </wpt>
+  <wpt lat="45.1859316" lon="5.7199016">
+    <name>&quot;Maye &amp; Momies&quot; de Maye &#xA;</name>
+  </wpt>
+  <wpt lat="45.1823271" lon="5.7177992">
+    <name>&quot;Fin Fest&quot; de Lucretia Torva&#xA;</name>
+  </wpt>
+  <wpt lat="45.1828228" lon="5.7177369">
+    <name>&quot;Srek &amp; Killah1&quot; de Srek&#xA;</name>
+  </wpt>
+  <wpt lat="45.1836973" lon="5.7105642">
+    <name>&quot;Muse-hic&quot; de Piet Rodriguez&#xA;</name>
+  </wpt>
+  <wpt lat="45.1845655" lon="5.7140676">
+    <name>Ekis et Boye&#xA;</name>
+  </wpt>
+  <wpt lat="45.185998" lon="5.7122577">
+    <name>&quot;Les autruches&quot; de STEL&#xA;</name>
+  </wpt>
+  <wpt lat="45.1879127" lon="5.7064381">
+    <name>&quot;Crewcaracha&quot; de Crewcaracha&#xA;</name>
+  </wpt>
+  <wpt lat="45.192501" lon="5.7004905">
+    <name>&quot;Mandala Flower&quot; de Mademoiselle Maurice&#xA;</name>
+  </wpt>
+  <wpt lat="45.1890573" lon="5.6988603">
+    <name>&quot;Statuettes d&apos;Isaac Cordal&quot; de Isaac Cordal&#xA;</name>
+  </wpt>
+  <wpt lat="45.1898887" lon="5.6947586">
+    <name>&quot;Nemanja&quot; de SAINER &amp; SEBAS VELASCO&#xA;</name>
+  </wpt>
+  <wpt lat="45.1893211" lon="5.6924587">
+    <name>&quot;Stryfalcon S-38&quot; de SERTY31&#xA;</name>
+  </wpt>
+  <wpt lat="45.1951982" lon="5.686669">
+    <name>&quot;Sub Styles Graffiti International&quot; de Piet Rodriguez&#xA;</name>
+  </wpt>
+  <wpt lat="45.148796" lon="5.7181537">
+    <name>&quot;MonkeyBird&quot; de Monkey Bird&#xA;</name>
+  </wpt>
+  <wpt lat="45.1300676" lon="5.695678">
+    <name>&quot;Oh my deer !&quot; Monk&#xA;</name>
+  </wpt>
+  <wpt lat="45.138565" lon="5.702057">
+    <name>&quot;Aquaboogie&quot; de NESTA &amp; SHORT (France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.131121" lon="5.695253">
+    <name>&quot;Easter egg&quot;  de Veks Van Hillik (France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.134354" lon="5.697315">
+    <name>&quot;Les pieds sur Terre&quot; de Veks Van Hillik France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.191217" lon="5.7533363">
+    <name>&quot;The embrace&quot; de Telmo &amp; Miel&#xA;</name>
+  </wpt>
+  <wpt lat="45.193092" lon="5.755394">
+    <name>&quot;Ashen&quot; de NEAN (Belgique) </name>
+  </wpt>
+  <wpt lat="45.1891864" lon="5.7688926">
+    <name>&quot;Angela&quot; de Shepard Fairey (Obey)&#xA;</name>
+  </wpt>
+  <wpt lat="45.193296" lon="5.770774">
+    <name>&quot;In addiction&quot; de AUGUSTINE KOFIE (USA)&#xA;</name>
+  </wpt>
+  <wpt lat="45.189204" lon="5.754825">
+    <name>TAWOS (France)&#xA;</name>
+  </wpt>
+  <wpt lat="45.185247" lon="5.761615">
+    <name>&quot;Le dernier refuge&quot; de MANTRA (France) &amp; DULK1 (Espagne) </name>
+  </wpt>
+  <wpt lat="45.183966" lon="5.765842">
+    <name>&quot;Le carré Asiatique&quot; de INSANE GRAFFITI (France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.185297" lon="5.747781">
+    <name>&quot;Marianne au rouleau&quot; de GOIN </name>
+  </wpt>
+  <wpt lat="45.1877647" lon="5.7488628">
+    <name>&quot;We are nature&quot; de JULIETA XLF &#xA;</name>
+  </wpt>
+  <wpt lat="45.191216" lon="5.698806">
+    <name>&quot;Le pont du Drac&quot; de SREK &amp; KILLAH ONE (France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.189629" lon="5.692599">
+    <name>&quot;Poséidon&quot; de PICHIAVO (Espagne) &#xA;</name>
+  </wpt>
+  <wpt lat="45.191541" lon="5.688278">
+    <name>Robert Proch (Pologne)</name>
+  </wpt>
+  <wpt lat="45.1943396" lon="5.686829">
+    <name>&quot;Adolescence&quot; de BEZT (Pologne)</name>
+  </wpt>
+  <wpt lat="45.1946152" lon="5.6867248">
+    <name>&quot;Je t&apos;aime Sans armes sans violence sans haine&quot; de Petite Poissone (France)</name>
+  </wpt>
+  <wpt lat="45.173496" lon="5.724634">
+    <name>&quot;La bibliothèque&quot; de VEKS VAN HILLIK (France) &#xA;</name>
+  </wpt>
+  <wpt lat="45.1842891" lon="5.7230491">
+    <name>&quot;Girl Behind the Chimney&quot; de Wild Drawing&#xA;</name>
+  </wpt>
+  <wpt lat="45.1847197" lon="5.7068867">
+    <name>&quot;Find Balance&quot; de MC Baldassari&#xA;</name>
+  </wpt>
+  <wpt lat="45.1846554" lon="5.7069216">
+    <name>&quot;Rosa Parks&quot; de M4U&#xA;</name>
+  </wpt>
+  <wpt lat="45.1842261" lon="5.7232992">
+    <name>&quot;Play to Learn, learn to play&quot;, M4U - 2019&#xA;</name>
+  </wpt>
+  <wpt lat="45.1858695" lon="5.7268374">
+    <name>&quot;Icon Face&quot; de Shepard Fairey (Obey)&#xA;</name>
+  </wpt>
+  <wpt lat="45.1851934" lon="5.731384">
+    <name>&quot;Friend Skull&quot; de Shepard Fairey (Obey)&#xA;</name>
+  </wpt>
+  <wpt lat="45.185411" lon="5.719247">
+    <name>&quot;Process of acceleration&quot; de Li - Hill</name>
+  </wpt>
+  <wpt lat="45.1857599" lon="5.7269608">
+    <name>&quot;Stop Gun&quot; de OTIS&#xA;</name>
+  </wpt>
+  <wpt lat="45.182526" lon="5.71307">
+    <name>Fresque participative avec VOTOUR (France) - Eaje Charrel</name>
+  </wpt>
+  <wpt lat="45.188494" lon="5.709133">
+    <name>&quot;E.Doll nº68&quot; de Softtwix a</name>
+  </wpt>
+  <wpt lat="45.1823101" lon="5.7137826">
+    <name>&quot;Don&apos;t move&quot; de IMER (Belgique) &#xA;</name>
+  </wpt>
+  <wpt lat="45.184517" lon="5.709669">
+    <name>1010 (Allemagne)</name>
+  </wpt>
+  <wpt lat="45.179652" lon="5.723067">
+    <name>&quot;The Guardian&quot; de DULK1 (Espagne) </name>
+  </wpt>
+  <wpt lat="45.20152" lon="5.734023">
+    <name>&quot;Le Lynx&quot; de Ardif (France)</name>
+  </wpt>
+  <wpt lat="45.196776" lon="5.74235">
+    <name>&quot;Sublime Sauvage&quot; - DANAY (France)&#xA;</name>
+  </wpt>
+  <wpt lat="45.195654" lon="5.742113">
+    <name>&quot;Endangered Species Alpha&quot; de GROEK (France) </name>
+  </wpt>
+  <wpt lat="45.19236" lon="5.721938">
+    <name>&quot;Obey Horizontal faces&quot; - Shepard Fairey</name>
+  </wpt>
+  <wpt lat="45.187615" lon="5.7432505">
+    <name>IZZY IZVNE (Moldavie)</name>
+  </wpt>
+  <wpt lat="45.192106" lon="5.725846">
+    <name>&quot;Create your own &quot; de LPDVA (France) </name>
+  </wpt>
+  <wpt lat="45.186862" lon="5.722113">
+    <name>&quot;Crime scene polution&quot; de Monk </name>
+  </wpt>
+  <wpt lat="45.183341" lon="5.731045">
+    <name>&quot;Rose Girl&quot; de Shepard Fairey (USA) </name>
+  </wpt>
+  <wpt lat="45.1856701" lon="5.7270476">
+    <name>&quot;Hedy Lamarr&quot; de M4U (France)</name>
+  </wpt>
+  <wpt lat="45.185535" lon="5.727118">
+    <name>&quot;Joy&quot; de Julieta XLF (Espagne)</name>
+  </wpt>
+  <wpt lat="45.186007" lon="5.726736">
+    <name>&quot;Our time in the Universe&quot; de BEAST (Italie)</name>
+  </wpt>
+  <wpt lat="45.1879295" lon="5.72255">
+    <name>&quot;Grezoopraxiscope&quot; de Ekis &amp; Boye</name>
+  </wpt>
+  <wpt lat="45.1866335" lon="5.7218645">
+    <name>Spacejunk Art Centers Grenoble</name>
+  </wpt>
+  <wpt lat="45.135684" lon="5.707876">
+    <name>&quot;Le maitre décolle&quot; de VOTOUR (France)</name>
+  </wpt>
+  <wpt lat="45.120922" lon="5.69994">
+    <name>&quot;Old skin&quot; de IOTA (Belgique)</name>
+  </wpt>
+  <wpt lat="45.19205" lon="5.754448">
+    <name>&quot;The embrace&quot; de TELMO &amp; MIEL (Hollande)</name>
+  </wpt>
+  <wpt lat="45.1909631" lon="5.764821">
+    <name>&quot;Veils of Knowledge Part 1&quot; de Rosie Woods</name>
+  </wpt>
+  <wpt lat="45.191163" lon="5.765425">
+    <name>&quot;Veils of Knowledge Part 2&quot; de Rosie Woods&#xA;</name>
+  </wpt>
+  <wpt lat="45.1906925" lon="5.7655972">
+    <name>&quot;Veils of Knowledge Part 3&quot; de Rosie Woods&#xA;</name>
+  </wpt>
+  <wpt lat="45.169034" lon="5.755705">
+    <name>&quot;Simone Veil&quot; de M4U </name>
+  </wpt>
+  <wpt lat="45.17901" lon="5.758052">
+    <name>&quot;L&apos;union fait la force&quot; de PIET RODRIGUEZ (Belgique)</name>
+  </wpt>
+  <wpt lat="45.173908" lon="5.753674">
+    <name>&quot;Artist&quot; de Viktoria Veisbrut</name>
+  </wpt>
+  <wpt lat="45.1877904" lon="5.7485853">
+    <name>Holow &amp; Ekis (France)</name>
+  </wpt>
+  <wpt lat="45.188004" lon="5.744534">
+    <name>&quot;Universality&quot; de Ink4rt (France)</name>
+  </wpt>
+  <wpt lat="45.187002" lon="5.744899">
+    <name>&quot;A Pale Blue Dot&quot; de INTI (Chili)</name>
+  </wpt>
+  <wpt lat="45.187242" lon="5.743344">
+    <name>&quot;Mise en garde&quot; de SNEK (France)</name>
+  </wpt>
+  <wpt lat="45.187484" lon="5.74346">
+    <name>&quot;I&apos;m new here&quot; de YANN CHATELIN</name>
+  </wpt>
+  <wpt lat="45.183175" lon="5.739193">
+    <name>&quot;Never go back to school&quot; de GOIN</name>
+  </wpt>
+  <wpt lat="45.180562" lon="5.731305">
+    <name>&quot;Hannibal&quot; de Brusk (France)</name>
+  </wpt>
+  <wpt lat="45.179004" lon="5.726114">
+    <name>&quot;KKKops&quot; de GOIN</name>
+  </wpt>
+  <wpt lat="45.186357" lon="5.727236">
+    <name>&quot;Cultivez vous&quot; de OTIST (France) </name>
+  </wpt>
+  <wpt lat="45.186387" lon="5.7273">
+    <name>&quot;Re-belier vous&quot; de OTIST (France)</name>
+  </wpt>
+  <wpt lat="45.186412" lon="5.727376">
+    <name>&quot;Reveillez vous&quot; de OTIST (France)</name>
+  </wpt>
+  <wpt lat="45.186344" lon="5.727278">
+    <name>&quot;Black lives matter&quot; de Combo (France)</name>
+  </wpt>
+  <wpt lat="45.173315" lon="5.704887">
+    <name>&quot;Unité&quot; de LPVDA (Suisse) </name>
+  </wpt>
+  <wpt lat="45.186514" lon="5.711323">
+    <name>&quot;Tous les voisins d&apos;un autre&quot; du Collectif Muz Mural Media</name>
+  </wpt>
+  <wpt lat="45.188654" lon="5.710368">
+    <name>&quot;Collapse&quot; de NEVERCREW </name>
+  </wpt>
+  <wpt lat="45.188588" lon="5.711004">
+    <name>&quot;La tigresse rouge&quot; de Marco Lallemant (France)</name>
+  </wpt>
+  <wpt lat="45.188566" lon="5.709107">
+    <name>&quot;Broken glass&quot; de Simon Berger  (Suisse)</name>
+  </wpt>
+  <wpt lat="45.192064" lon="5.71679">
+    <name>&quot;Eco vs Ego&quot; de Reskate (Espagne)</name>
+  </wpt>
+  <wpt lat="45.199376" lon="5.707297">
+    <name>&quot;Summer Games 2021&quot; de Srek &amp; Killah One (France)</name>
+  </wpt>
+  <wpt lat="45.192308" lon="5.696662">
+    <name>&quot;L&apos;inconnu de la gare de Jodhpur&quot; de L&apos;ENFANT LIBRE (France)</name>
+  </wpt>
+  <wpt lat="45.1868779" lon="5.6919526">
+    <name>&quot;Portrait Georges Sand&quot; de M4U</name>
+  </wpt>
+  <wpt lat="45.1869654" lon="5.6921413">
+    <name>&quot;Signalez nous...&quot; de Petite Poisonne </name>
+  </wpt>
+  <wpt lat="45.190007" lon="5.687591">
+    <name>&quot;Les Collemboles&quot; de Philibert (France)</name>
+  </wpt>
+</gpx>
